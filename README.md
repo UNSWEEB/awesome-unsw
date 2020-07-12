@@ -4,7 +4,7 @@ UNSW past cse course notes.
 
 ## About This Project
 
-We are collecting all the good notes, documents or **public** course links of courses offered by CSE. Please remember **NOT** to include any official slides made by UNSW unless you have the premission from your tutor and lecturers.
+We are collecting all the good notes, documents and **public** course links of courses offered by CSE. Please remember **NOT** to include any **officially private** document made by UNSW unless you have the premission from your tutors and lecturers.
 
 ## Disclaimer
 - **DO NOT** put any projects that are currently using or will be used here.
