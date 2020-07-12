@@ -28,10 +28,8 @@ We are collecting all the good notes, documents and **public** course links of c
   * [Lectures](https://webcms3.cse.unsw.edu.au/COMP1511/19T2/resources/27302)
 
 * 19T3
-  * [Tutorials, Labs, Tests](https://webcms3.cse.unsw.edu.au/COMP1511/19T3/resources/333577)
   * [Lectures](https://webcms3.cse.unsw.edu.au/COMP1511/19T3/resources/33469)
  
 * 20T1
-  * [Tutorials, Labs, Tests](https://webcms3.cse.unsw.edu.au/COMP1511/20T1/resources/41652)
   * [Lectures](https://webcms3.cse.unsw.edu.au/COMP1511/20T1/resources/41729)
-  * [Revision](https://webcms3.cse.unsw.edu.au/COMP1511/20T1/resources/41621)
+
