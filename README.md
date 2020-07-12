@@ -1,4 +1,4 @@
-# awesome-unsw-cse
+# awesome-unsw
 UNSW past cse course notes.
 
 ## Disclaimer
