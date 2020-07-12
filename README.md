@@ -22,7 +22,7 @@ We are collecting all the good notes, documents or **public** course links of co
 * [COMP3821](#cs2521)
 
 <a name="cs1511"></a>
-### CS1511 - 
+### CS1511 - Programming Fundamentals
 
 * 19T2
   * [Tutorials, Labs, Tests](https://webcms3.cse.unsw.edu.au/COMP1511/19T2/resources/27507)
