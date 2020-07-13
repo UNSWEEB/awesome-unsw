@@ -12,16 +12,19 @@ We are collecting all the good notes, documents and **public** course links of c
 ## Courses From 2019
 > All Valid Links
 
-* [COMP1911](#cs1911) 
-* [COMP1511](./Courses/COMP1511/README.md)
-* [COMP1521](#cs1521)
-* [COMP1531](#cs1531)
-* [COMP1531](#cs1531)
-* [COMP2521](#cs2521)
-* [COMP3121](#cs2521)
-* [COMP3821](#cs2521)
-* [COMP3141]
-* [COMP3151]
+* [COMP1911 Computing 1A](./Courses/COMP1911/README.md)
+* [COMP1511 Programming Fundamentals](./Courses/COMP1511/README.md)
+* [COMP1521 Computer Systems Fundamentals](./Courses/COMP1511/README.md)
+* [COMP1531 Software Engineering Fundamentals](./Courses/COMP1511/README.md)
+* [COMP2521 Data Structures and Algorithms](./Courses/COMP1511/README.md)
+* [COMP3121 Algorithms and Programming Techniques](./Courses/COMP1511/README.md)
+* [COMP3821 Extended Algorithms and Programming Techniques](./Courses/COMP1511/README.md)
+* [COMP3141 Software System Design and Implementation](./Courses/COMP1511/README.md)
+* [COMP3151 Foundations of Concurrency](./Courses/COMP1511/README.md)
+* [COMP3231 Operating Systems](./Courses/COMP1511/README.md)
+* [COMP3311 Database Systems](./Courses/COMP1511/README.md)
+* [COMP3331 Computer Networks and Applications](./Courses/COMP1511/README.md)
+* [COMP9315 Database Systems Implementation](./Courses/COMP1511/README.md)
 
 
 
