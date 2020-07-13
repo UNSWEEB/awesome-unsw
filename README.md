@@ -13,7 +13,7 @@ We are collecting all the good notes, documents and **public** course links of c
 > All Valid Links
 
 * [COMP1911](#cs1911) 
-* [COMP1511](./blob/master/Courses/COMP1511/README.md)
+* [COMP1511](./Courses/COMP1511/README.md)
 * [COMP1521](#cs1521)
 * [COMP1531](#cs1531)
 * [COMP1531](#cs1531)
