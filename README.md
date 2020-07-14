@@ -31,6 +31,7 @@ We are collecting all the good notes, documents and **public** course links of c
 * [COMP9444 Neural Networks and Deep Learning](./Courses/COMP1511/README.md)
 * [COMP9517 Computer Vision](./Courses/COMP1511/README.md)
 * [COMP9417 Machine Learning and Data Mining](./Courses/COMP1511/README.md)
+
 **Postgraduate courses**
 * [COMP9021 Principles of Programming](./Courses/COMP1511/README.md)
 * [COMP9024 Data Structures and Algorithms](./Courses/COMP1511/README.md)
