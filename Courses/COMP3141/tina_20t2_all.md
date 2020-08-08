@@ -1,18 +1,3 @@
----
-title: Haskell and functional programming
-date: 2020-08-1 14:00:00
-categories:
-- notes
-tags:
-- Haskell
-- Functional Programming
-toc: true
-
----
-
-> Enjoy learning haskell but not only haskell.
-> <!-- more -->
-
 # Haskell Introduction
 
 In this course we use Haskell, because it is the most widespread language with good support for mathematically structured programming.
